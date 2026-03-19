@@ -66,3 +66,6 @@ frontend/npx.ps1
 # Development notes and internal project spec
 baka.txt
 CLAUDE.md
+
+# Proprietary swarm prompt — agent definitions and methodology
+swarm-100-agent-prompt.txt

@@ -98,7 +98,15 @@ def _build_prompt() -> str:
     from backend.model.ratings import get_all_ratings, R16_MATCH_STATS
     from backend.model.monte_carlo import run_simulation, BracketState
 
-    template = PROMPT_FILE.read_text(encoding="utf-8")
+    if PROMPT_FILE.exists():
+        template = PROMPT_FILE.read_text(encoding="utf-8")
+    else:
+        template = os.environ.get("SWARM_PROMPT", "")
+        if not template:
+            raise HTTPException(
+                status_code=503,
+                detail="Swarm prompt not found. Set SWARM_PROMPT environment variable."
+            )
 
     # Fetch live data
     ratings = get_all_ratings()

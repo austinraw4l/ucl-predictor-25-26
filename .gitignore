@@ -62,3 +62,7 @@ frontend/npx.ps1
 
 # IPython history
 .ipython/
+
+# Development notes and internal project spec
+baka.txt
+CLAUDE.md

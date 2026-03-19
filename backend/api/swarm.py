@@ -305,9 +305,12 @@ def swarm_reset(x_admin_secret: Optional[str] = Header(default=None)):
     Deletes the swarm cache file, allowing a fresh simulation run on next GET /api/swarm.
 
     Requires X-Admin-Secret header matching the ADMIN_SECRET environment variable.
-    Defaults to 'ucl-admin-2026' if ADMIN_SECRET is not set.
+    ADMIN_SECRET must be set in .env — there is no hardcoded fallback.
     """
-    expected = os.environ.get("ADMIN_SECRET", "ucl-admin-2026")
+    expected = os.environ.get("ADMIN_SECRET")
+    if not expected:
+        raise HTTPException(status_code=503, detail="ADMIN_SECRET not configured on server")
+
     if x_admin_secret != expected:
         raise HTTPException(status_code=403, detail="Invalid or missing X-Admin-Secret header")
 

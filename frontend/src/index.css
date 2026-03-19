@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*, *::before, *::after {
+  font-family: 'DM Sans', sans-serif !important;
+}
+
+:root {
+  font-family: 'DM Sans', sans-serif !important;
+}
+
+body {
+  font-family: 'DM Sans', sans-serif !important;
+  background: #ddeefe;
+  color: #1a1a2e;
+  margin: 0;
+  font-size: 14px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  font-family: 'DM Sans', sans-serif !important;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #c8ddf5;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #a0bcd8;
+  border-radius: 3px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #7ea3c4;
+}

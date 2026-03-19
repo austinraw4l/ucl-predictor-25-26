@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Outer fire glow -->
+  <ellipse cx="50" cy="88" rx="22" ry="7" fill="#FF4500" opacity="0.3"/>
+
+  <!-- Flame layer 1 (back, wide) -->
+  <path d="M38 90 C34 78 30 68 33 56 C36 46 42 43 40 33
+           C46 41 44 52 49 60 C47 48 55 38 53 24
+           C62 38 58 52 64 59 C62 47 70 43 72 33
+           C77 47 73 62 76 72 C79 60 85 55 83 43
+           C91 57 86 74 80 83 C72 90 58 94 50 92
+           C44 94 38 92 38 90Z" fill="#FF6B00"/>
+
+  <!-- Flame layer 2 (front, brighter) -->
+  <path d="M42 88 C38 78 36 69 39 58 C42 50 47 47 45 38
+           C50 45 49 55 53 62 C51 52 58 44 56 31
+           C64 44 61 56 66 62 C65 51 71 47 73 38
+           C77 50 74 64 77 73 C80 62 84 58 83 47
+           C89 60 85 76 79 84 C71 91 58 94 50 91
+           C46 93 42 90 42 88Z" fill="#FF9500"/>
+
+  <!-- Inner flame highlight -->
+  <path d="M48 85 C45 76 44 68 47 59 C50 53 54 51 52 43
+           C56 49 55 58 59 64 C57 55 63 49 61 38
+           C68 50 65 61 69 67 C68 58 73 54 74 46
+           C78 57 75 69 78 77 C75 65 72 59 75 52
+           C79 62 77 74 72 82 C66 88 56 91 50 89
+           C48 90 48 87 48 85Z" fill="#FFCC00"/>
+
+  <!-- Soccer ball -->
+  <circle cx="50" cy="40" r="30" fill="white" stroke="#1a1a1a" stroke-width="2"/>
+
+  <!-- Black pentagon patches (simplified classic pattern) -->
+  <!-- Top center -->
+  <path d="M50 13 L57 19 L55 28 L45 28 L43 19 Z" fill="#1a1a1a"/>
+  <!-- Upper right -->
+  <path d="M68 25 L73 33 L67 40 L58 37 L57 28 Z" fill="#1a1a1a"/>
+  <!-- Lower right -->
+  <path d="M65 52 L58 58 L50 55 L48 46 L57 42 Z" fill="#1a1a1a"/>
+  <!-- Lower left -->
+  <path d="M35 52 L43 42 L52 46 L50 55 L42 58 Z" fill="#1a1a1a"/>
+  <!-- Upper left -->
+  <path d="M32 25 L43 28 L42 37 L33 40 L27 33 Z" fill="#1a1a1a"/>
+</svg>

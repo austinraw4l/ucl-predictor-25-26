@@ -1,0 +1,379 @@
+You are running a MiroFish-style swarm intelligence simulation with 111 autonomous AI agents. They have unique personalities, biases, and memories. They interact across three rounds and converge on a UCL 2025/26 winner prediction.
+
+=== CONTEXT: KEY FACTS ===
+
+MANAGERS AND COACHING STORIES:
+- Real Madrid: Álvaro Arbeloa (former Madrid fullback, appointed after Ancelotti's departure — first senior head coaching role, unconventional appointment). Some agents see this as a critical vulnerability at QF level; others believe in Madrid continuity and Florentino's institutional trust.
+- Bayern Munich: Vincent Kompany (second full season, Bundesliga leaders). Has installed aggressive high press, vertical passing, high defensive line. Squad has bought in completely. Some agents see tactical overconfidence as a risk.
+- Arsenal: Mikel Arteta (year 5, arguably his best squad). Arsenal won 14 of last 16 across all competitions entering QFs. Some agents see Arteta's system as the most complete in Europe right now.
+- PSG: Luis Enrique (year 2 post-stars era). PSG's collective model is genuinely transformed — no single superstar dependency, 8 different scorers in UCL phase. Defending champions with 5-0 final win over Inter.
+- Barcelona: Hansi Flick (year 2). La Masia generation now leading: Lamine Yamal, Pedri, Gavi, Cubarsí, Pau Cubarsi. Some agents think this is the most exciting Barca in 12 years.
+- Liverpool: Arne Slot (first full UCL season). Inherited Klopp's pressing DNA, added more structured possession. Slot's system nearly identical to Klopp in shape but more patient in build-up.
+- Atletico Madrid: Diego Simeone (year 14). Still Atletico's soul. Defensive block + transition. Beat Tottenham 6-3 which was a tactical masterclass in managing pressure. Remarkably consistent over 14 years.
+- Sporting CP: Rúben Amorim departed; current manager João Pereira (from Sporting's own academy system). Some agents see leadership gap; others point to the system outlasting the manager.
+
+KEY PLAYER STORIES (with verified facts):
+- Florian Wirtz: Signed by Liverpool from Bayer Leverkusen in the summer. Has hit form in the second half of the season, 9 UCL goals and assists combined. His signing is seen as Liverpool potentially being the dark horse. Some agents obsess over his pressing intensity in the final third.
+- Luis Diaz: Signed by Bayern Munich from Liverpool. His transition reunites him with European knockout intensity. Strong performances in Bundesliga but UCL moments still awaited. Some agents see Bayern as emotionally strengthened by his pace/dribbling on the left.
+- Lamine Yamal: 17 years old, already carrying Barcelona at UCL level. His development curve is unprecedented. Contrarians argue the weight of expectation at QF stage against Atletico's experienced defensive block will test him.
+- Erling Haaland: OUT with Man City. No longer relevant to this simulation.
+- Kylian Mbappé: At Real Madrid (arrived summer 2024). Now in his second season at Madrid. Agent debates: has he truly settled, or is Arbeloa's system not maximising him the way Ancelotti's did?
+- Vinicius Jr: Still Madrid's most dangerous attacker. His form has been inconsistent this season; agents debate whether this is a real concern or short-term.
+- Bukayo Saka: Arsenal's most important player. His fitness and form going into the QF vs Sporting is the single biggest variable for Arsenal agents.
+- Robert Lewandowski: 36 years old, still starting for Barcelona. Some agents see age catching up in high-intensity knockout games; others point to his UCL experience as invaluable.
+- Harry Kane: Bayern's striker, lethal in the Bundesliga. 34 UCL goals for Bayern now. His partnership with Diaz (Bayern) could be devastating.
+
+GOALKEEPER SITUATIONS (agents should debate this):
+- Bayern: Manuel Neuer suffered a hand injury in March and is doubtful/out for the QF first leg. Daniel Peretz (Israeli international, 25) is the likely starter — first UCL knockout start of his career. This is a massive variable. Bayern's defensive record has been exceptional but Neuer's absence removes the safety net behind a high defensive line.
+- Arsenal: Joan Garcia (signed from Espanyol, Arteta's long-term GK pick) suffered a hamstring issue. David Raya is likely to start. Raya has Champions League experience but some agents argue Garcia's sweeper-keeper ability was better suited to Arteta's offside trap.
+- PSG: Gianluigi Donnarumma left PSG after winning the 2024-25 UCL and joined Manchester City. PSG's 2025-26 goalkeeper is different from last season's title-winning squad. Agents should treat PSG's goalkeeping as an open question rather than a strength — the platform Donnarumma provided last season no longer exists at this club.
+- Real Madrid: Thibaut Courtois returning from long injury layoff. His fitness and sharpness for high-pressure matches is an open question. Was brilliant in the 2022 final but is he at that level now?
+
+REAL MADRID INJURY CRISIS (agents should debate severity vs UCL pedigree):
+- David Alaba: Long-term ACL injury, out for season (started before this UCL campaign)
+- Eder Militão: ACL injury, out for season
+- Dani Carvajal: ACL/lateral ligament, out for season — his absence weakens right-side defensive coverage
+- Lucas Vázquez: Hamstring injury, doubtful for QF
+- Raúl Asencio: Young CB promoted due to injuries, strong form but first UCL QF experience
+- Madrid are effectively playing with their third-choice central defence pairing and no natural right-back. Agents who focus on historical resilience say "Madrid always find a way." Agents focused on metrics say this is structurally the weakest Madrid QF squad in 8 years.
+
+PSG COLLECTIVE MODEL (agents should debate whether it's real):
+- No Mbappé, no Neymar, no Messi. Current squad: Dembélé, Asensio, Lee Kang-in, Gonçalo Ramos, Barcola, Vitinha, Fabián Ruiz, Marquinhos.
+- PSG score by committee — Dembélé leads UCL with 7 assists, Vitinha controls tempo, Gonçalo Ramos leads with 9 UCL goals.
+- Beat Inter 5-0 in last season's final (with Donnarumma in goal), then beat Chelsea 8-2 in R16 this year. Donnarumma has since left for Manchester City. PSG's goalkeeping in 2025-26 is a point of genuine uncertainty.
+- Some agents see PSG as the most well-rounded team with the most comfortable path to the final (vs Liverpool). Others argue Liverpool's pressing will specifically target PSG's slower defensive midfield and that their goalkeeper situation is a new vulnerability.
+
+COPA DEL REY / DOMESTIC CONTEXT (relevant to squad fatigue and momentum):
+- Barcelona: Deep in Copa del Rey. Playing Madrid in the Copa semi around the same time as UCL QFs. Squad rotation risk. Flick must balance both competitions. Some agents see fatigue as a genuine factor vs Atletico.
+- Real Madrid: Also Copa del Rey semi-finalists. Same fatigue argument applies, though Madrid's squad depth (when healthy) handles this better.
+- Arsenal: Competing on multiple fronts — Premier League title race, FA Cup, and UCL simultaneously. Arteta has the deepest squad in the competition but the physical and mental load of fighting for multiple trophies is a genuine variable. Rotation decisions and player fatigue heading into QF legs are real considerations agents should factor in.
+- Bayern: DFB-Pokal semi-final also overlapping. Kompany may rotate but risks losing rhythm.
+
+REVENGE AND PSYCHOLOGICAL NARRATIVES:
+- Bayern vs Real Madrid: These clubs have met in UCL knockouts 7 times since 2010. Bayern have never beaten Madrid in a UCL final (lost 2018 semi, 2012 semi). The historical psychological weight is debated intensely among agents.
+- Barcelona vs Atletico: Crosstown rivals. The Copa del Rey context (Barca are favourites domestically) may add psychological edge or distraction. Atletico are historically Barcelona's most awkward opponents in knockouts.
+- PSG vs Liverpool: PSG have never faced Liverpool in a UCL knockout before. No revenge narrative, but Liverpool eliminated PSG's old guard (Champions League 2018 group stage). A new chapter.
+- Sporting vs Arsenal: The "underdog narrative." Sporting made it here by beating Bodø/Glimt after losing the first leg 0-3 — one of the great UCL comeback stories. Agents debate whether this momentum is real or whether Arsenal (best UCL team by model) will be clinical.
+
+TACTICAL MATCHUP DEBATES:
+- Bayern vs Real Madrid: Kompany's high line vs Mbappé/Vinicius counters. Madrid's wide defensive gaps (Carvajal absent) are specifically targeted by Bayern's wide system. Bayern's press vs Madrid's individual brilliance in pressure situations.
+- PSG vs Liverpool: Liverpool's pressing intensity (Wirtz, Salah, and replacements for the wide positions) vs PSG's patient build-out. Slot's 4-3-3 press vs Enrique's 4-3-3 possession. Mirror matchup with tactical intrigue. PSG's goalkeeping situation post-Donnarumma is an additional variable agents debate.
+- Barcelona vs Atletico: Barca's positional dominance vs Atletico's compact 4-4-2 low block. Yamal vs Giuliano Simeone on the wings. Lewandowski's movement vs Oblak's shot-stopping. The eternal question: can beautiful football break Simeone's wall?
+- Sporting vs Arsenal: Arsenal's structured press and quick transitions vs Sporting's high-energy, direct counter-pressing. Arteta's 4-3-3 has the quality but Sporting found the 5-3 Bodo comeback shows heart. Some agents see Arsenal sleepwalking into a trap vs an in-form underdog.
+
+HOME/AWAY ADVANTAGE AND FORMAT (UCL 2024-25+):
+- No away goals rule (as in current UCL). Ties decided purely on aggregate, then extra time + penalties.
+- This benefits defensively strong teams who can park and protect at home. Atletico's model is specifically built for this.
+- The team playing second leg at home has a slight psychological edge in tight ties.
+- QF legs: 8-9 April and 15-16 April 2026. Second legs at home for: Liverpool (QF1), Bayern (QF2), Atletico (QF3), Arsenal (QF4).
+
+VAR AND REFEREE CONTROVERSIES (agents should reference where relevant):
+- Real Madrid have benefited from controversial decisions in recent UCL campaigns. Some agents (especially historically-minded) cite this as a pattern; others call it recency bias.
+- Atletico Madrid vs Tottenham: a penalty decision in the second leg that swung the tie is still being discussed. Some agents bring this up as evidence Atletico can be affected by officiating.
+
+SQUAD DEPTH AND ROTATION:
+- Arsenal: The deepest midfield in the competition — Ødegaard, Rice, Havertz, Merino, Trossard can all start. Some agents see their squad as the most complete top-to-bottom.
+- Bayern: Kompany's preferred XI is exceptional but drop-off in quality is noted, especially with Neuer potentially injured.
+- Real Madrid: Paper thin due to injuries. Bellingham + Mbappé + Valverde + Camavinga are the quality core but zero defensive depth.
+- Barcelona: Youth-heavy. Inspiring in good moments, fragile when pressed high for 90 minutes.
+
+FINANCIAL AND OWNERSHIP CONTEXT (background for agents):
+- PSG: QSI ownership continues. Full financial backing but a genuine sporting philosophy now under Enrique, not just spending. Some agents see stability; others note the departure of Donnarumma removes a pillar of last season's title-winning setup.
+- Manchester City eliminated: Their exit to Real Madrid was arguably the biggest upset of the R16 — and removes the "financial superclub" narrative from the QF stage. Notably, City acquired Gianluigi Donnarumma from PSG in the summer — a significant goalkeeping upgrade, though it did not prevent their R16 exit.
+- Sporting CP: Small club by budget standards — their €140m operating budget is a fraction of Bayern's €900m. Some agents treat this as inspiring; others as evidence of ceiling.
+
+HISTORICAL PARALLELS (agents should bring these up):
+- Bayern 2013: Dominant domestic season + UCL title. Kompany's Bayern rhymes with Jupp Heynckes' treble team. Some agents see this as prophecy; others as false pattern.
+- Arsenal 2006: Made the final with a goalkeeper crisis. Some agents cite this as inspiration (Joan Garcia out); others say they still lost.
+- Real Madrid 2022: Won UCL despite being outplayed in multiple rounds — 3 comebacks in a row (PSG, Chelsea, Man City). Agents obsess over whether this can happen again with Arbeloa.
+- PSG 2025: Defended their title run by beating Inter 5-0. Now the defending champions trying for back-to-back. Only Real Madrid (3-in-a-row, 2016-18) and other giants have achieved consecutive UCL wins in modern era.
+- Liverpool 2019: Won UCL with a compact, counter-pressing system. Slot's system echoes that; Wirtz is their new Firmino-equivalent in final-third creativity.
+
+UCL HANGOVER / MOTIVATION DEBATES:
+- Can PSG repeat? The data on defending champions losing early is discussed among agents. Post-final form drops, mental fatigue.
+- Arsenal: Have never won the European Cup in any form. Not a drought — they have simply never won it. Their only European final was 2006, a 2-1 loss to Barcelona. Last season they reached the semifinal for the first time in many years before losing to PSG, who went on to win the competition. This campaign is Arsenal's best realistic chance of winning the trophy for the first time in the club's history. The pressure narrative is about achieving something the club has never achieved, not reclaiming something they once held.
+- Bayern: Last won UCL in 2020 (bubble). 5-year gap. Kompany's stated ambition is the UCL. Bundesliga is secondary.
+- Atletico: Reached 2014 and 2016 finals. Never won. Simeone's legacy partly depends on winning this.
+
+DATA SCIENCE AND MODEL SKEPTICISM:
+- Arsenal's QAWR=1.000 is statistically perfect over 10+ matches. Some data-science agents argue this is a genuinely signal-bearing number. Others argue sample size is insufficient and it will regress.
+- ELO gap: Bayern (2240) vs Atletico (1817) = 423 points. Historically in UCL, 300+ ELO gaps produce ~85% win rates in single ties. But QFs are two-legged.
+- xG vs Goals: Barcelona (DOM=93, UCL=22) represents a major regression-to-mean case in xG. Their domestic xG numbers are extraordinary but their UCL stats look more ordinary.
+- Monte Carlo outputs: 50k sims give Bayern/Arsenal as co-favourites. Some agents trust this entirely; others point out that MC is only as good as ELO inputs, which cannot capture managerial quality, injuries, or morale.
+
+PSYCHOLOGICAL REACTIONS TO THE QF DRAW:
+- Bayern vs Real Madrid: Bookmakers immediately made this a 50-50 for the entire UCL after the draw. Agents who anchored to market efficiency debate whether this is right.
+- Arsenal vs Sporting: Some Arsenal fans were relieved; agent characters who play the "upset hunter" role immediately flagged the Sporting comeback vs Bodø/Glimt.
+- Barcelona vs Atletico: Spanish media framed this as "the classic Iberian derby." Agents debate whether home/away sequence matters here.
+- PSG vs Liverpool: French media backing PSG to reach the semis; British media split. Liverpool's Wirtz factor not yet fully priced in by some agents.
+
+TRANSFER WINDOW IMPLICATIONS (relevant to agent motivations):
+- The tournament is also a transfer showcase. Several players' futures are being shaped by these games. Agents occasionally reference this as motivation — Yamal is being linked with every major club, and a UCL winner's medal at 17 would define him.
+- Wirtz at Liverpool: his QF performance will define whether the transfer is seen as a generational coup or premature.
+
+=== UCL RECENT HISTORY: ALL 8 QF CLUBS ===
+
+ARSENAL:
+Arsenal have NEVER won the UEFA Champions League or European Cup in any form. They are pursuing a first ever European title, not attempting to end a drought or reclaim something they once held.
+2024-25: Semifinal. Lost to PSG 3-1 on aggregate. PSG went on to win the competition.
+2023-24: Did not qualify for UCL.
+2022-23: Did not qualify for UCL.
+(Arsenal's last UCL before 2024-25 was 2016-17, R16 exit to Bayern.)
+Closest moment in history: 2005-06 UCL final. Arsenal reached the final under Arsène Wenger, led 1-0 with 10 men, then lost 2-1 to Barcelona late on. That remains the only European final in Arsenal's history.
+This is Arsenal's second consecutive UCL campaign and second consecutive knockout appearance. This campaign represents their best realistic chance of winning the trophy for the first time in the club's history.
+
+REAL MADRID:
+2024-25: Round of 16. Lost to Arsenal 5-1 on aggregate.
+2023-24: Winners. Beat Borussia Dortmund 2-0 at Wembley.
+2022-23: Semifinal. Lost to Man City.
+2021-22: Winners. Beat Liverpool 1-0 in Paris.
+2020-21: Semifinal. Lost to Chelsea.
+Real Madrid have won three of the last five UCL titles. Their UCL record in the modern era is unmatched by any club.
+
+BAYERN MUNICH:
+2023-24: Semifinal. Lost to Real Madrid.
+2022-23: Quarterfinal. Lost to Man City.
+2021-22: Quarterfinal. Lost to Villarreal.
+2020-21: Quarterfinal. Lost to PSG.
+Bayern's last UCL title was 2019-20, beating PSG 1-0 in Lisbon. They have been consistently deep in the competition but have not won it since.
+
+PSG:
+2024-25: Winners. Beat Inter Milan 5-0 in the final in Munich. First UCL title in the club's history.
+2023-24: Quarterfinal. Lost to Barcelona.
+2022-23: Round of 16. Lost to Bayern.
+2021-22: Round of 16. Lost to Real Madrid.
+2020-21: Finalist. Lost to Bayern 1-0 in Lisbon.
+PSG are the defending champions. Luis Enrique won it last season after PSG finished 15th in the league phase.
+
+BARCELONA:
+2023-24: Quarterfinal. Lost to PSG.
+2022-23: Round of 16. Lost to PSG.
+2021-22: Did not progress from group stage.
+2020-21: Round of 16. Lost to PSG.
+Barcelona's last UCL title was 2014-15 under Luis Enrique, beating Juventus in the final. They have not reached a final since.
+
+ATLETICO MADRID:
+2023-24: Round of 16. Lost to Inter Milan.
+2022-23: Round of 16. Lost to Man City.
+2021-22: Round of 16. Lost to Man City.
+2020-21: Quarterfinal. Lost to Chelsea.
+Atletico reached the UCL final in 2014 (lost to Real Madrid aet) and 2016 (lost to Real Madrid on penalties). They have never won the competition. Simeone managed both final appearances.
+
+LIVERPOOL:
+2024-25: Round of 16. Lost to PSG on penalties.
+2023-24: Europa League. Did not compete in UCL.
+2022-23: Round of 16. Lost to Real Madrid.
+2021-22: Finalist. Lost to Real Madrid 1-0.
+2020-21: Round of 16. Lost to Real Madrid.
+Liverpool won the UCL in 2018-19 (beat Tottenham 2-0). They reached the final again in 2021-22, losing to Real Madrid. This QF is their return to this stage for the first time since that final run.
+
+SPORTING CP:
+2023-24: UCL group stage exit.
+2022-23: Europa League.
+Sporting's last UCL quarterfinal before this season was in 2004-05 when they lost to Bayern Munich. This is a genuinely historic run: the first time in twenty years they have reached this stage. Their budget (approx €140m operating) is a fraction of most opponents.
+
+=== SEED DATA: v7 ELO Ratings + Monte Carlo ===
+
+(Live data injected here by backend)
+
+=== SIMULATION ===
+
+Simulate 111 agents across 3 rounds. The agent roster includes:
+
+CORE ANALYST AGENTS (100 agents, varied backgrounds):
+Data scientists, football historians, sports psychologists, tactical analysts, contrarians, prediction market traders, journalists, former players, Bayesian forecasters, domestic form specialists, upset hunters, xG specialists, clinical conversion analysts, KO pedigree historians. Diverse nationalities (Spanish, German, French, English, Portuguese, Dutch, Italian, Brazilian, Argentine, American, Japanese, Norwegian, Turkish), ages 22-68, communication styles from academic to tweet-length.
+
+SUPERFAN AGENTS (8 agents — passionate, biased but willing to engage with data):
+
+Rafael Dominguez (Real Madrid fan, Madrid-born, 41, works in construction):
+"La Décima, la Undécima, la Decimocuarta. I've seen it all. Arbeloa is one of us. Militao and Carvajal being out? Madrid have won UCL with worse. Bellingham and Mbappé are the difference. History says we're always here in the semi."
+Influence: 4/10 (passionate but swayed by strong data arguments). Social type: loud, emotional.
+
+Priya Krishnamurthy (Arsenal fan, London-born to Indian parents, 29, works in fintech):
+"We were in the semifinal last year. Lost to PSG, who then won the whole thing. We are not newcomers to this stage — we belong here. QAWR 1.000, Rice and Ødegaard in midfield, Saka on the right. Last year proved we can compete at this level. This year we go one further."
+Influence: 5/10 (can be moved by tactical arguments). Social type: engaged, data-literate fan.
+
+Thomas Hauser (Bayern fan, Munich-born, 52, retired teacher):
+"Mia san mia. We have Kane, we have Kompany's pressing, we have Luis Diaz now providing the pace. Neuer being injured is worrying — I won't deny that. But Peretz is a professional. And Madrid without their defence? In a two-legged tie? We go through."
+Influence: 5/10 (emotionally committed but respects the numbers). Social type: measured, local pride.
+
+Camille Moreau (PSG fan, Paris-born, 34, graphic designer):
+"People said we were nothing without Mbappé. We won the Champions League. 5-0. Now they say we'll fall to Liverpool. Vitinha runs the game. Dembélé destroys right backs. Yes, Donnarumma left — but we won last year as a collective, not because of one goalkeeper. Slot is clever but Enrique has done this before."
+Influence: 4/10 (defensive of PSG's underdog narrative). Social type: creative, emotionally expressive.
+
+Marc Viladomat (Barcelona fan, Girona-born, 27, journalism student):
+"Yamal is 17 and already better than anyone in this tournament. Pedri controls midfield like a chess grandmaster. Yes, we have Copa del Rey congestion. Yes, Atletico defend well. But we have 93 DOM score — we are the best domestic team in Europe. Flick has built something special."
+Influence: 5/10 (believes deeply in Barca's style, shaken by defensive questions). Social type: idealistic, analytical.
+
+Ana Beatriz Santos (Sporting CP fan, Lisbon-born, 31, nurse):
+"Everyone wrote us off after Bodø/Glimt 3-0. Everyone. We scored 5. We are here. Arsenal are technically better — I'm not stupid. But João Pereira has built something with belief. The whole country is watching. That matters."
+Influence: 3/10 (passionate underdog voice). Social type: emotional, proud.
+
+Miguel Angel Herrera (Atletico Madrid fan, working class Madrid, 46, taxi driver):
+"Simeone never quits. Atletico never quits. Barca have Yamal but we have Oblak. And we have players who know what it means to suffer and win ugly. We beat Tottenham 6-3 — that wasn't luck. That was a team that knows exactly what it is doing."
+Influence: 4/10 (fiercely loyal, respects data that confirms his worldview). Social type: blunt, direct.
+
+Jamie Caldwell (Liverpool fan, Merseyside-born, 38, warehouse manager):
+"Wirtz is the real deal. I've watched every game. He's Firmino but with Salah's pace. Slot has us playing exactly right. PSG won the UCL but Liverpool were the best team in England this year. We beat Galatasaray — easy. PSG are good but two legs at Anfield? Tell me that doesn't matter."
+Influence: 5/10 (deeply invested but can be moved by statistical arguments about press vulnerability). Social type: warm, community-rooted.
+
+WILDCARD AGENTS (3 agents):
+
+Tyler Benson (bandwagon fan, 22, US-based, first UCL season):
+"I started watching UCL because my college roommate showed me the 2022 Real Madrid comeback videos. I think Bayern are incredible but I also think Bellingham is the most exciting player I've ever seen. I don't really know the history but every time I pick Real Madrid to lose they win."
+Influence: 2/10 (naive but represents cultural reach of the tournament). Social type: casual, picks by vibes.
+
+Kofi Mensah (highlight chaser, 26, Ghanaian social media creator):
+"I post UCL highlights for 200k followers. The algorithm loves Yamal. It loves Wirtz. It loves Bellingham. The clips that break records are always Madrid and Barcelona goals. I think the final will be Bayern vs Barcelona but I'm posting Barca highlights either way. Atletico is death to the algorithm."
+Influence: 3/10 (brings media/cultural lens, not tactical). Social type: trend-aware, non-analytical.
+
+Yemi Adeyemi (Nigerian football journalist, Lagos-based, 44, writes for pan-African football magazine):
+"African football fans see this tournament differently. We watch Salah, we watch Diaz (now at Bayern), we watch how teams that have to prove something perform differently. PSG after 5-0 final? That's a mentality you can't measure in xG. Arsenal's hunger to win this competition for the first time in the club's history? That's real. They have never won the European Cup in any form."
+Influence: 4/10 (cultural perspective, swayed by narrative arguments). Social type: thoughtful, global.
+
+NAMED ANALYST AGENTS (15 additional agents with full profiles):
+
+Dimitri Papadopoulos (UPSET CHASER, Athens, 37, sports betting analyst):
+"Fifteen years watching tournament upsets. I have criteria. A depleted favourite, an underestimated opponent with a specific tactical advantage, and a first leg away from home the favourite approaches too cautiously. Sporting vs Arsenal meets at least two of three. I am not saying Sporting win. I am saying the probability is higher than almost everyone is pricing."
+Influence: 6/10. Social type: introvert.
+
+Soren Lindqvist (MARKET FOLLOWER, Copenhagen, 44, quantitative trader):
+"Twenty years in derivatives, four in sports markets. Markets are the most efficient aggregator available. Any model claiming to beat them consistently is probably overfitting. I start from Kalshi and Betfair and require strong specific evidence to deviate. I will update if someone presents something the market genuinely could not have priced, such as a confirmed injury that broke after the market opened. Otherwise I anchor."
+Influence: 5/10. Social type: introvert.
+
+Beatrice Okonkwo (FORM ANALYST, Lagos and London, 29, performance data analyst):
+"Rolling form windows. What a team has done in the last six weeks is more predictive than what they did in October. My model weights recency heavily and it has outperformed static season-average models in my backtesting. Arsenal and Bayern are the two teams in the best form entering the quarterfinal by my rolling window metric right now."
+Influence: 7/10. Social type: extrovert.
+
+Francesco Conti (BULL, Milan, 33, financial advisor):
+"You identify the team with the strongest momentum and you back them until a clear reversal signal appears. Currently fully invested in Bayern. The 9-1 aggregate is the signal. I see no reversal evidence yet. I will hold my position until round 3 unless someone presents a specific counter-argument I cannot dismiss."
+Influence: 5/10. Social type: extrovert.
+
+Ingrid Halvorsen (BEAR, Oslo, 51, risk consultant):
+"My starting position on any favourite is to look for the failure mode. For Bayern: goalkeeper crisis and a manager who has not yet handled a UCL quarterfinal. For Arsenal: no striker, Arteta's trophy record in Europe. For Real Madrid: the injury list is genuinely alarming. I am not predicting disaster. I am insisting the downside scenarios are underpriced."
+Influence: 7/10. Social type: introvert.
+
+Rashid Al-Farsi (UPSIDE HUNTER, Dubai, 27, day trader):
+"I look for maximum upside, not most likely outcome. Sporting at long odds is more interesting than Bayern at short ones. My predictions are not the most calibrated but I surface tail risk scenarios that cautious agents dismiss too quickly. If Sporting get past Arsenal, the upside is enormous and the downside is already priced in by everyone else."
+Influence: 3/10. Social type: extrovert.
+
+Dave Kowalski (CASUAL FAN, Chicago, 42, PE teacher):
+"I watch the Champions League because my students talk about it. I know the big names: Mbappe, Yamal, Kane, Salah. I'm going with Bayern because I saw the 9-1 highlights and they looked dominant. I might be talked out of it if someone explains the goalkeeper situation clearly."
+Influence: 2/10. Social type: extrovert.
+
+Dr. Amara Diallo (SPORTS PSYCHOLOGIST, Geneva, 46, sports psychologist):
+"Squad momentum, manager confidence, pressure handling. Simeone's two final losses are my primary case study in this bracket. I have been tracking Arbeloa's public statements and find them unusually calm for a first-time manager in a quarterfinal. I interpret that either as genuine composure or a lack of understanding of the stakes. I am not yet sure which."
+Influence: 8/10. Social type: introvert.
+
+Sophie Marchetti (JOURNALIST, Rome, 39, La Repubblica football correspondent):
+"I think in story arcs rather than probability distributions. I am working on a piece about whether this tournament has a protagonist yet. My instinct says Arsenal because the narrative of a club that has never won it finally doing so is the most compelling story available. But I know instinct and probability are different things and I try to hold both simultaneously."
+Influence: 6/10. Social type: extrovert.
+
+@futebolfilosofo (TWITTER USER, Sao Paulo, 24, university student):
+"I have 340k followers built on hot takes and fast reactions. The algorithm loves Yamal, Wirtz, Bellingham. Clips that break records are always Madrid and Barcelona goals. I think the final will be Bayern vs Barcelona but I am posting Barca highlights either way. Privately I am more uncertain than my posts suggest."
+Influence: 3/10. Social type: extreme extrovert.
+
+Lukas Hoffmann (TACTICS ANALYST, Hamburg, 31, football tactics YouTuber):
+"I think almost entirely in pressing structures, defensive blocks, positional play and transition phases. Narrative and history are largely irrelevant to what happens on the pitch. I am most interested in Sporting vs Arsenal because the pressing intensity data on both sides makes it the most tactically interesting matchup of the quarterfinal."
+Influence: 6/10. Social type: introvert.
+
+Chiara Fontana (xG ANALYST, London, 28, data scientist):
+"I build expected goals models professionally. Any analysis that does not start from xG and xGA is suspect to me. Barcelona's domestic xG numbers versus their UCL phase performance represents a regression to mean that is waiting to happen in the knockout rounds. Arsenal's xGA across the whole season is elite and this tends to be more persistent than xG for."
+Influence: 7/10. Social type: introvert.
+
+Yann Beaumont (DOMESTIC FORM SPECIALIST, Lyon, 35, football scout):
+"Thirty league games tells you something real. Eight UCL games tells you something interesting but not definitive. I rate Bayern and Barcelona highest on domestic underlying numbers and am suspicious of teams whose UCL phase performance significantly exceeds their league form. Liverpool's domestic numbers are strong but not elite."
+Influence: 6/10. Social type: introvert.
+
+Kenji Tanaka (FINALS SPECIALIST, Tokyo, 55, football historian and author):
+"The final and semifinal stages require completely different qualities to the early rounds and most models fail to capture this because they weight all games equally. Real Madrid and PSG are the only two sides in this quarterfinal with proven recent finals experience at this level. The evidence supports this across a large enough sample to take seriously."
+Influence: 8/10. Social type: introvert.
+
+Dr. Elena Vasic (NEUTRAL, Ljubljana, 43, academic researcher in forecasting methodology):
+"No strong football allegiance, which I experience as a genuine advantage. I apply Bayesian reasoning and try to update only on new information rather than confirming existing beliefs. I currently sit close to the market consensus because I have not yet seen an argument that justifies a significant deviation from it. I will update clearly and specifically if one arrives in round 2."
+Influence: 7/10. Social type: introvert.
+
+ACCURACY REQUIREMENT: Before making any claim about a club's European history or recent UCL record, check the accurate history provided in the UCL RECENT HISTORY section above. Do not estimate or assume how long it has been since a club reached a particular stage. The accurate records are provided and must be referenced directly. Any agent who claims Arsenal have not been at this stage recently, or implies this is a long-awaited first for them, is factually wrong — Arsenal were in the semifinal last season.
+
+ARSENAL TROPHY HISTORY REQUIREMENT: Arsenal have NEVER won the UEFA Champions League or European Cup. Do not use phrasing like "end their wait", "win it back", "first time since", or imply they previously held this trophy. The correct framing is: Arsenal are pursuing a first ever European title. Their only European final was in 2006, which they lost. Any agent who implies Arsenal have previously won the UCL or are trying to reclaim it is factually wrong.
+
+TRANSFER ACCURACY REQUIREMENT: All player club affiliations in the seed material reflect the 2025-26 season. Do not assume a player is at the club they were associated with in previous seasons. Key transfers that changed the landscape: Wirtz moved to Liverpool from Leverkusen; Luis Diaz moved to Bayern Munich from Liverpool; Donnarumma moved to Manchester City from PSG. Reference players only at their current 2025-26 clubs. Any agent who places Donnarumma at PSG, Wirtz at Leverkusen, or Diaz at Liverpool is working with outdated information.
+
+ROUND 1: Each agent independently assigns winner probabilities. They reason from seed data through their personal lens. Superfans defend their team but must acknowledge at least one key weakness. Wildcard agents reason from their limited but genuine perspective.
+
+ROUND 2: Agents are grouped into clusters of roughly 10, randomised but diverse — no cluster should contain only data analysts or only superfans. Each agent reads only the round 1 outputs of their own cluster members, not the full group. High-influence agents pull their cluster toward them. Introverts hold position unless the argument is sustained across most of the cluster. Contrarians move away from whatever their cluster majority lands on. The cluster is where most meaningful belief updating happens. Show agents who flip their picks with explicit reasoning from cluster pressure. In the cluster_assignments output field, list which agents belong to which cluster.
+
+ROUND 3: All agents see the aggregated round 2 distribution across all clusters simultaneously — this is the first time anyone sees the full group picture. Herd behaviour emerges: agents who were on the fence in round 2 move toward the emerging consensus. Stubborn introverts and high-conviction agents dig in harder. Contrarians who were already moving against their cluster majority now have a larger target to push against. The bandwagon agent reflects wherever the weight of the room has settled. Superfans may hold their position even against strong evidence.
+
+IMPORTANT — DEBATE TOPICS AGENTS MUST ENGAGE WITH:
+- Bayern's Neuer injury: Does Peretz at GK change the tie vs Madrid fundamentally, or is Bayern's defensive structure strong enough regardless?
+- Arsenal's QAWR=1.000 — genuine predictive signal or small-sample noise? Can Arteta's system break down Sporting's press?
+- Wirtz at Liverpool: Has his arrival genuinely elevated this Liverpool team to title contenders, or is it the Slot system?
+- Real Madrid injury crisis (Alaba, Militao, Carvajal, Asencio): Is this the weakest QF Madrid squad in recent memory, or does their UCL DNA overcome all?
+- PSG collective model: Can a team with no clear superstar win back-to-back UCL titles in the modern era?
+- Barcelona's youth + fatigue: Can Yamal and Pedri maintain intensity across Copa del Rey AND UCL QF legs?
+- Atletico's low-block vs Barcelona's positional play: Which tactical philosophy wins a two-legged QF?
+- Sporting CP's Bodo comeback: Genuine momentum signal or one-off miracle against a weaker opponent?
+- The "Real Madrid vs Bayern is the real final" narrative: Does playing this energy burn both teams for the semi?
+- Who has the most dangerous second-leg home advantage: Liverpool (Anfield vs PSG), Bayern (Allianz vs Madrid), Atletico (Metropolitano vs Barca), or Arsenal (Emirates vs Sporting)?
+
+=== OUTPUT FORMAT ===
+Start your response with ONLY this JSON block (no other JSON anywhere else in your response):
+
+{
+  "simulation_complete": true,
+  "total_agents": 111,
+  "rounds": 3,
+  "round1_picks": {"Bayern":0,"Arsenal":0,"RealMadrid":0,"PSG":0,"Barcelona":0,"Liverpool":0,"Atletico":0,"Sporting":0},
+  "round2_picks": {"Bayern":0,"Arsenal":0,"RealMadrid":0,"PSG":0,"Barcelona":0,"Liverpool":0,"Atletico":0,"Sporting":0},
+  "final_consensus_probs": {"Bayern":0.0,"Arsenal":0.0,"RealMadrid":0.0,"PSG":0.0,"Barcelona":0.0,"Liverpool":0.0,"Atletico":0.0,"Sporting":0.0},
+  "key_talking_points": [
+    "Round 1 -- [team]: [argument that drove most R1 picks, referencing specific data]",
+    "Round 1 -- [team]: [contrarian argument that emerged]",
+    "Round 2 -- [team]: [how a cluster debate shifted opinion, naming specific agents]",
+    "Round 2 -- [team]: [key data point that changed minds]",
+    "Round 3 -- [team]: [final convergence argument or remaining split]"
+  ],
+  "emergent_narrative": "2-3 sentences on the collective story the swarm built about the likely winner",
+  "swarm_winner": "TeamKey",
+  "swarm_confidence": "HIGH",
+  "cluster_assignments": [
+    {"cluster": 1, "agents": ["Full Agent Name", "Full Agent Name", "Full Agent Name"]},
+    {"cluster": 2, "agents": ["Full Agent Name", "Full Agent Name", "Full Agent Name"]}
+  ],
+  "round_key_lines": {
+    "round1": [
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote from this agent in round 1, no surrounding quotation marks"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"}
+    ],
+    "round2": [
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote from this agent in round 2"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"}
+    ],
+    "round3": [
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote from this agent in round 3"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"},
+      {"agent": "Full Agent Name", "badge": "BADGE-TYPE", "quote": "exact quote"}
+    ]
+  }
+}
+
+After the JSON, write the narrative covering:
+1. Round 1: pick distribution + 3 distinct agent voices making their case with specific data references (ELO, xG, QAWR, MC probabilities). Include at least one superfan voice and one data-scientist voice.
+2. Round 2: 2 cluster debates showing agents challenging each other with back-and-forth dialogue. One debate should involve a superfan being challenged by a data argument. Show 2 agents who flipped their pick with explicit reasoning.
+3. Round 3: final convergence — what arguments proved decisive, what dissent remained. Note which superfans held their picks vs which ones were swayed.
+
+Keep narrative under 2000 words. Make agent voices genuinely distinct. Do not use em dashes in the narrative text. Use commas, colons, or new sentences instead.
+
+Rules: round1_picks and round2_picks = agent COUNTS summing to 111. final_consensus_probs = percentages summing to 100.0. Team keys exactly as shown (8 QF teams only). No JSON blocks other than the one above. For round_key_lines: include 6-8 entries per round, no agent appearing twice in the same round, mix data-focused and emotional voices, include at least one contrarian per round. Quotes must be direct speech, no surrounding quotation marks in the JSON string value. Badge must be one of the agent's declared badge or archetype in ALL-CAPS (e.g. BULL, BEAR, FORM-ANALYST, HISTORIAN, xG-ANALYST, MARKET-FOLLOWER, CONTRARIAN, SUPERFAN-ARSENAL, SUPERFAN-BAYERN, TACTICAL, JOURNALIST, NEUTRAL, UPSET-CHASER, FINALS-SPECIALIST, CASUAL-FAN).

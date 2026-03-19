@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 32 32">
+  <!-- Fire/flame on left side -->
+  <path d="M4 20 Q2 14 6 10 Q5 16 9 14
+    Q7 18 10 16 Q8 22 14 20"
+    fill="#ff6b00" opacity="0.9"/>
+  <path d="M3 22 Q1 16 5 11 Q4 17 8 15
+    Q6 20 11 18"
+    fill="#ff9a3c" opacity="0.7"/>
+  <path d="M5 24 Q3 18 7 13 Q6 19 10 17"
+    fill="#ffcc00" opacity="0.6"/>
+  <!-- Football -->
+  <circle cx="18" cy="16" r="12"
+    fill="white" stroke="#1a1a2e"
+    stroke-width="1"/>
+  <!-- Pentagon patches -->
+  <polygon points="18,7 21,10 20,14 16,14 15,10"
+    fill="#1a1a2e"/>
+  <polygon points="26,13 29,16 27,20 23,19 23,15"
+    fill="#1a1a2e"/>
+  <polygon points="22,22 24,26 20,28 17,25 18,21"
+    fill="#1a1a2e"/>
+  <polygon points="10,22 12,26 16,25 16,21 12,19"
+    fill="#1a1a2e"/>
+  <polygon points="8,14 11,10 15,10 16,14 12,16"
+    fill="#1a1a2e"/>
+</svg>

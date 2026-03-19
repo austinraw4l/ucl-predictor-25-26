@@ -1,0 +1,64 @@
+# Environment variables — never commit these
+.env
+.env.local
+.env.production
+.env.development
+
+# Swarm cache — contains API responses
+backend/cache/
+backend/cache/swarm_cache.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+
+# Node
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm/
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Logs
+*.log
+npm-debug.log*
+
+# Keys and secrets
+*.key
+*.pem
+*.p12
+secrets.json
+
+# Bundled Node.js binaries and installer (use system Node instead)
+node-v24.14.0-win-x64/
+frontend/node-v24.14.0-win-x64/
+frontend/node-v24.14.0-x64.msi
+nodejs/
+frontend/npm
+frontend/npm.cmd
+frontend/npm.ps1
+frontend/npx
+frontend/npx.cmd
+frontend/npx.ps1
+
+# Claude Code local settings
+.claude/
+
+# IPython history
+.ipython/
